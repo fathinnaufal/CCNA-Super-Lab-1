@@ -10,6 +10,8 @@ VLAN & Trunking, Portfast, Router On Stick, Switch Virtual Interface (SVI), DHCP
 - Interface Switch and Router 10.10.10.10/30 - 10.10.10.15/30 
 
 My Linkedin : https://www.linkedin.com/in/fathin-naufal/
+
 Solid networks through robust networking, accurate routing, and optimal switching.
+
 #CCNA #CISCO #LAB #NetworkEngineer
 
